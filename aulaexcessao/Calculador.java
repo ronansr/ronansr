@@ -28,7 +28,9 @@ public class Calculador {
                 
             }
         }
-        
+        //ArithmeticException e Array... são especificações de excessoes, portanto,
+        //precisa ser seguido do mais específico para o mais geral
+        //caso ocorra algum erro
     }
 
 }
